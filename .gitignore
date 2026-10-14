@@ -1,0 +1,15 @@
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+# outputs ที่ generate ได้ใหม่
+*.xlsx
+*_result.json
+recalc/
+# ข้อมูลโปรเจกต์จริง (boring log, ETABS, ไฟล์โปรเจกต์) - ห้าม commit
+projects/
+*.ceda.json
+!examples/*.ceda.json
+*.pdf
+*.e2k
+*.edb
