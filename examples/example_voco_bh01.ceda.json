@@ -1,0 +1,159 @@
+{
+ "app_version": "0.1.0",
+ "state": {
+  "project": "EXAMPLE – VOCO BH01 (self-test data)",
+  "s1_mode": "A – คำนวณจาก boring log"
+ },
+ "layers": [
+  {
+   "BH": "BH01",
+   "name": "GC",
+   "type": "Clay",
+   "top": 0,
+   "bot": 3,
+   "gamma": 1.36,
+   "N": 0,
+   "Su": 0
+  },
+  {
+   "BH": "BH01",
+   "name": "CH",
+   "type": "Clay",
+   "top": 3,
+   "bot": 7,
+   "gamma": 1.82,
+   "N": 0,
+   "Su": 1.50667
+  },
+  {
+   "BH": "BH01",
+   "name": "CH",
+   "type": "Clay",
+   "top": 7,
+   "bot": 14.3,
+   "gamma": 1.672,
+   "N": 0,
+   "Su": 1.89625
+  },
+  {
+   "BH": "BH01",
+   "name": "CL",
+   "type": "Clay",
+   "top": 14.3,
+   "bot": 15.3,
+   "gamma": 2.16,
+   "N": 0,
+   "Su": 12.7
+  },
+  {
+   "BH": "BH01",
+   "name": "CH",
+   "type": "Clay",
+   "top": 15.3,
+   "bot": 26.5,
+   "gamma": 2.0,
+   "N": 30.75,
+   "Su": 0
+  },
+  {
+   "BH": "BH01",
+   "name": "CH",
+   "type": "Clay",
+   "top": 26.5,
+   "bot": 30,
+   "gamma": 2.05,
+   "N": 0,
+   "Su": 17.72
+  },
+  {
+   "BH": "BH01",
+   "name": "SM",
+   "type": "Sand",
+   "top": 30,
+   "bot": 35,
+   "gamma": 2.0,
+   "N": 37.333,
+   "Su": 0
+  }
+ ],
+ "gwl": [
+  {
+   "BH": "BH01",
+   "GWL (m)": 1.55
+  }
+ ],
+ "types": [
+  {
+   "name": "F1",
+   "n": 1,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F2",
+   "n": 2,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F3",
+   "n": 3,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F4",
+   "n": 4,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F5",
+   "n": 5,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F6",
+   "n": 6,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F7",
+   "n": 7,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F8",
+   "n": 8,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  },
+  {
+   "name": "F9",
+   "n": 9,
+   "h": null,
+   "embed": null,
+   "bars": "",
+   "coords": ""
+  }
+ ]
+}

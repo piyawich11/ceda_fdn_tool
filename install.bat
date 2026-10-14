@@ -1,0 +1,9 @@
+@echo off
+REM ติดตั้งครั้งแรก: ต้องมี Python 3.10+ (python.org) ในเครื่อง
+cd /d %~dp0
+python -m venv .venv
+call .venv\Scripts\activate.bat
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python tests\test_engines.py
+pause
